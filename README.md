@@ -2,6 +2,7 @@
 An arduino based remote controlled airplane with PID control loop using MPU6050 <br />
 
 It is a fully Arduino based RC plane.Flight controller, Transmitter all are made using Arduino.The range is more than 1KM. <br />
+Transmitter and receiver system are made using arduino and NRF24 transreceiver and there is also a LCD display showing the pitch and roll trim values on the transmitter. There was also an MPU6050 gyro and accelerometer sensor installed on the plane for PID control, self-balancing the airplane in strong winds.
 
 # DEMO: https://www.youtube.com/playlist?list=PLtB2X1q31Kq5JVEsOvBol5XOvkQDj3aM6 
 # THINGS USED:
